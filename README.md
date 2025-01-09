@@ -1,0 +1,2 @@
+# bmdotlk
+auto typer
